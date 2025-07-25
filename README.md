@@ -16,6 +16,10 @@ This is a simple file structure:
 
 ![File Structure](./images/filestructure.png)
 
+## Deployment
+
+Check out the deployed web app through this link: https://kuhlayd02.github.io/CalculatorApp/ 
+
 ## Author
 
 - Developed by: Clyde Rubian

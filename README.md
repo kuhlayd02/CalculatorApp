@@ -14,7 +14,7 @@ A stylish and mobile-responsive calculator built using **HTML**, **CSS**, and **
 
 This is a simple file structure:
 
-![File Structure](./images/filestructure.png)
+![File Structure](./images/file_structure.png)
 
 ## Deployment
 

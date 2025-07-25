@@ -14,14 +14,7 @@ A stylish and mobile-responsive calculator built using **HTML**, **CSS**, and **
 
 This is a simple file structure:
 
-CalculatorApp/
-├── app/
-│   ├── index.html
-│   ├── index.css
-│   └── app.js
-├── images/
-│   └── (images used)
-└── README.md
+![File Structure](./images/filestructure.png)
 
 ## Author
 

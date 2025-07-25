@@ -18,5 +18,5 @@ This is a simple file structure:
 
 ## Author
 
-Developed by: Clyde Rubian
-Date of Developement: 25th of July 2025
+- Developed by: Clyde Rubian
+- Date of Developement: 25th of July 2025
